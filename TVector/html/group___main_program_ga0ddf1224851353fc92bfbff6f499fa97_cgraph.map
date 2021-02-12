@@ -1,0 +1,12 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,208,56,235"/>
+<area shape="rect" id="node2" href="$group___main_program.html#ga389209d8bde0a8922177efb8ed7a22a6" title="Testování API vector_resize()" alt="" coords="104,107,207,133"/>
+<area shape="rect" id="node5" href="$group___t_vector.html#ga41fcff5418fe213f2caaa586f521bcd6" title="Dealokace vektoru." alt="" coords="283,157,389,184"/>
+<area shape="rect" id="node7" href="$group___t_vector.html#gac0009a6c19dd42237bbb6af9897f2e44" title="Alokace vektoru a inicializace jeho prvků ze souboru." alt="" coords="104,208,207,235"/>
+<area shape="rect" id="node9" href="$group___t_vector.html#ga2502e6ec116dbac5e49f5b62b07dc898" title="Přečtení počtu elementů vektoru." alt="" coords="112,259,199,285"/>
+<area shape="rect" id="node10" href="$group___t_vector.html#ga2b08236d9825632cd96bcc89faed929c" title="Přečtení hodnoty elementu z vektoru na požadované pozici." alt="" coords="109,309,201,336"/>
+<area shape="rect" id="node3" href="$main__support_8h.html#aa291195ad453d2b1e29004cc2e043c01" title=" " alt="" coords="291,5,381,32"/>
+<area shape="rect" id="node4" href="$group___t_vector.html#ga6b0b8780d60dad02b8569be119769548" title="Vytvoření úplné kopie vektoru." alt="" coords="289,56,383,83"/>
+<area shape="rect" id="node6" href="$group___t_vector.html#gabf502ae8257c371ab9c7fb95a242ccb2" title="Změna velikosti existujicího vektoru." alt="" coords="287,107,385,133"/>
+<area shape="rect" id="node8" href="$group___t_vector_element.html#gaf9a34133c2292f807fe184c72fd3f8d8" title="Načtení elementu ze souboru." alt="" coords="255,208,417,235"/>
+</map>
