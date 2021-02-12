@@ -99,14 +99,14 @@ int main(int argc, char *argv[])
 	//putchar('\n');
 
 	resize_testing(&vector1, 1000000);		// 4Mb
-//	resize_testing(&vector1, 10000000);		// 40Mb
+	resize_testing(&vector1, 10000000);		// 40Mb
 //	resize_testing(&vector1, 100000000);	// 400Mb
 //	resize_testing(&vector1, 1000000000);	// 4000Mb
 
 	//vector_for_each(vector_iterator_begin(&vector1), print);
 	//putchar('\n');
 
-	//vector_destroy(&vector1);
+	vector_destroy(&vector1);
 	return 0;
 	}
 
