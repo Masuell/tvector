@@ -11,7 +11,7 @@
 #include "TVector.h"
 #include "main_support.h"
 #include "check.h"
-#define NDEBUG
+//#define NDEBUG
 
 /** \defgroup MainProgram 3. Hlavní program
  *  \brief Definice funkcí hlavního programu
@@ -75,7 +75,7 @@ int main(int argc, char *argv[])
 	//vector_init_file(&vector1, fsrc);
 	//fclose(fsrc);
 	
-	
+
 	#ifndef NDEBUG
 		// Debug configuration (vector API value access)
 		for(size_t i = 0; i < vector_size(&vector1); ++i)
@@ -100,7 +100,7 @@ int main(int argc, char *argv[])
 
 	resize_testing(&vector1, 1000000);		// 4Mb
 	resize_testing(&vector1, 10000000);		// 40Mb
-//	resize_testing(&vector1, 100000000);	// 400Mb
+	resize_testing(&vector1, 100000000);	// 400Mb
 //	resize_testing(&vector1, 1000000000);	// 4000Mb
 
 	//vector_for_each(vector_iterator_begin(&vector1), print);
